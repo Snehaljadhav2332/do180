@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page version my Webhooks </h1>
+<h1>My first PHP page </h1>
 
 <?php
-echo "hello World from Snehal S. Jadhav"
+echo "hello World from Webhooks"
 ?>
 
 </body>
